@@ -1,0 +1,30 @@
+.item{
+    display: flex;
+    padding: 1rem;
+}
+.item-img img{
+    width: 160px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.item-img{
+    margin-right: 20px;
+}
+
+.item .term{
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.item .list-group-item{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.item h4{
+    font-size: 18px;
+    margin: 0;
+}
+

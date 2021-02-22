@@ -1,0 +1,35 @@
+.header{
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.header .header-logo a{
+    font-size: 35px;
+    color: #fff;
+    text-decoration: none;
+    margin-right: 70px;
+}
+
+.header .header-logo a:hover{
+    color: rgb(7, 163, 98);
+}
+
+.header .header-list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.header .header-list-item a{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(7, 163, 98);
+}
+
+.header .header-list-item a:hover{
+    color: #444;
+    text-decoration: none;
+}
+

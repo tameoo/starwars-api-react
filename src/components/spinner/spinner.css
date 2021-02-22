@@ -1,0 +1,93 @@
+@keyframes ldio-w7vqrx8ormm {
+  0% { transform: rotate(0) }
+  100% { transform: rotate(360deg) }
+}
+.ldio-w7vqrx8ormm div { box-sizing: border-box!important }
+.ldio-w7vqrx8ormm > div {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 73px;
+  left: 73px;
+  border-radius: 50%;
+  border: 6px solid #000;
+  border-color: #000000 transparent #000000 transparent;
+  animation: ldio-w7vqrx8ormm 1.639344262295082s linear infinite;
+}
+
+.ldio-w7vqrx8ormm > div:nth-child(2), .ldio-w7vqrx8ormm > div:nth-child(4) {
+  width: 38px;
+  height: 38px;
+  top: 81px;
+  left: 81px;
+  animation: ldio-w7vqrx8ormm 1.639344262295082s linear infinite reverse;
+}
+.ldio-w7vqrx8ormm > div:nth-child(2) {
+  border-color: transparent #ffed03 transparent #ffed03
+}
+.ldio-w7vqrx8ormm > div:nth-child(3) { border-color: transparent }
+.ldio-w7vqrx8ormm > div:nth-child(3) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-w7vqrx8ormm > div:nth-child(3) div:before, .ldio-w7vqrx8ormm > div:nth-child(3) div:after { 
+  content: "";
+  display: block;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: -6px;
+  left: 18px;
+  background: #000000;
+  border-radius: 50%;
+  box-shadow: 0 48px 0 0 #000000;
+}
+.ldio-w7vqrx8ormm > div:nth-child(3) div:after {
+  left: -6px;
+  top: 18px;
+  box-shadow: 48px 0 0 0 #000000;
+}
+
+.ldio-w7vqrx8ormm > div:nth-child(4) { border-color: transparent; }
+.ldio-w7vqrx8ormm > div:nth-child(4) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-w7vqrx8ormm > div:nth-child(4) div:before, .ldio-w7vqrx8ormm > div:nth-child(4) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: -6px;
+  left: 10px;
+  background: #ffed03;
+  border-radius: 50%;
+  box-shadow: 0 32px 0 0 #ffed03;
+}
+.ldio-w7vqrx8ormm > div:nth-child(4) div:after {
+  left: -6px;
+  top: 10px;
+  box-shadow: 32px 0 0 0 #ffed03;
+}
+.loadingio-spinner-double-ring-arejopaqzu {
+  width: 200px;
+  height: 200px;
+  display: block;
+  overflow: hidden;
+  background: none;
+  margin: 0 auto;
+}
+.ldio-w7vqrx8ormm {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio-w7vqrx8ormm div { box-sizing: content-box; }
